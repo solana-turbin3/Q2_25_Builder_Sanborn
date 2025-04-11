@@ -1,0 +1,9 @@
+[submodule "Q2_25_turbin3preq"]
+	path = Q2_25_turbin3preq
+	url = https://github.com/stevensanborn/Q2_25_turbin3preq
+[submodule "anchor-vault"]
+	path = anchor-vault
+	url = https://github.com/stevensanborn/anchor-vault
+[submodule "anchor-escrow"]
+	path = anchor-escrow
+	url = https://github.com/stevensanborn/anchor-escrow
