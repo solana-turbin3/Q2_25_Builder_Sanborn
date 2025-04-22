@@ -7,3 +7,12 @@
 [submodule "anchor-escrow"]
 	path = anchor-escrow
 	url = https://github.com/stevensanborn/anchor-escrow
+[submodule "anchor_amm"]
+	path = anchor_amm
+	url = https://github.com/stevensanborn/anchor_amm.git
+[submodule "anchor_marketplace"]
+	path = anchor_marketplace
+	url = https://github.com/stevensanborn/anchor_marketplace/
+[submodule "anchor_nft_stake"]
+	path = anchor_nft_stake
+	url = https://github.com/stevensanborn/anchor_nft_stake
