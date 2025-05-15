@@ -16,3 +16,6 @@
 [submodule "anchor_nft_stake"]
 	path = anchor_nft_stake
 	url = https://github.com/stevensanborn/anchor_nft_stake
+[submodule "capstone/DripCast"]
+	path = capstone/DripCast
+	url = https://github.com/stevensanborn/DripCast
